@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,39 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a second year PhD student in the theory group of  Paul G. Allen School of Computer Science and Engineering at the University of Washington, Seattle, USA. I am advised by [Stefano Tessaro](https://homes.cs.washington.edu/~tessaro/) and [ Rachel Lin](https://homes.cs.washington.edu/~rachel/). My current research interests lie mainly in the theory and foundations of cryptography.
 
-A data-driven personal website
+Prior to this I graduated from the Indian Institute of Technology Kharagpur in July 2018 with a Bachelor of Technology (Hons.) in Computer Science and Engineering. I was advised by [Debdeep Mukhopadhyay](https://cse.iitkgp.ac.in/~debdeep/) for my undergraduate thesis.
+
+
+Publications
+=======
+**On the Memory-Tightness of Hashed ElGamal**   
+Ashrujit Ghoshal and Stefano Tessaro  
+*EUROCRYPT 2020*
+
+**Lightweight and Side-channel Secure 4 × 4 S-Boxes from Cellular Automata Rules**    [[eprint]](https://eprint.iacr.org/2018/832) [[doi]](https://doi.org/10.13154/tosc.v2018.i3.311-334)  
+Ashrujit Ghoshal, Rajat Sadhukhan, Sikhar Patranabis, Nilanjan Datta, Stjepan Picek, Debdeep  Mukhopadhyay  
+*IACR Transactions on Symmetric Cryptology, 2018(3) and FSE 2019*
+
+**Template-Based Fault Injection Analysis of Block Ciphers**  [[eprint]](https://eprint.iacr.org/2018/072) [[doi]](https://doi.org/10.1007/978-3-030-05072-6_2)  
+Ashrujit Ghoshal, Sikhar Patranabis, Debdeep Mukhopadhyay  
+*SPACE 2018*
+
+**Several Masked Implementations of the Boyar-Peralta AES S-Box**      [[eprint]](https://eprint.iacr.org/2017/1023) [[doi]](https://doi.org/10.1007/978-3-319-71667-1_20) [[slides]](./files/talk-slides/IndocryptPresentation2017.pdf)  
+Ashrujit Ghoshal and Thomas De Cnudde  
+*INDOCRYPT 2017*
+
+**An Evaluation of Lightweight Block Ciphers for Resource-Constrained Applications: Area, Performance, and Security**   [[doi]](https://doi.org/10.1007/s41635-017-0021-2)  
+Rajat Sadhukhan, Sikhar Patranabis, Ashrujit Ghoshal, Debdeep Mukhopadhyay, Vishal Saraswat, Santosh Ghosh  
+*Journal of Hardware and Systems Security 2017*
+ 
+Other
+======
+**Implementation Attacks on Block Ciphers: New Approaches and Countermeasures**  [[pdf]](./files/BachelorsThesis.pdf)  
+*Bachelors Thesis*
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -47,4 +77,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
