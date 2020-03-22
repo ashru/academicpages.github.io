@@ -11,8 +11,8 @@ title                    : "Ashrujit Ghoshal"
 title_separator          : "-"
 name                     : &name "Ashrujit Ghoshal"
 description              : &description "personal description"
-url                      : http://127.0.0.1:4000/  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-# url                      : https:homes.cs.washington.edu/~ashrujit/
+# url                      : http://127.0.0.1:4000/  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"- this is for testing locally
+url                      : "/~ashrujit" #This is for the cse webpage
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
